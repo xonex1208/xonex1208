@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xonex1208
+- 👋 Hi, I’m @xonex1208, but you can call me Cesar Ramirez
 - 👀 I’m interested in web & mobile development
 - 🌱 I’m currently learning python, angularJS, react and kotlin
 - 💞️ I’m looking to collaborate with anyone looking to work togheter bringing solutions to different problems.
